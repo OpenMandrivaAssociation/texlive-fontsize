@@ -1,6 +1,6 @@
 Name:		texlive-fontsize
 Version:	60161
-Release:	1
+Release:	2
 Summary:	A small package to set arbitrary sizes for the main font of the document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontsize
