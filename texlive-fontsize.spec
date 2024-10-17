@@ -3,7 +3,7 @@ Version:	60161
 Release:	2
 Summary:	A small package to set arbitrary sizes for the main font of the document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fontsize
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fontsize
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontsize.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fontsize.doc.r%{version}.tar.xz
